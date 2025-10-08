@@ -1,8 +1,8 @@
 # Intrinsic Evaluation of Word Embeddings
 ## Attribution-Based Analysis of French Grammatical Gender in BERT Models
 
-[![Université de Lorraine](https://img.shields.io/badge/Institution-Université%20de%20Lorraine-red.svg)](https://www.univ-lorraine.fr/)
-[![Website](https://img.shields.io/badge/Author-mdtayyab.com-blue)](https://mdtayyab.com)
+[![Institution](https://img.shields.io/badge/Institution-IDMC-red.svg)](https://idmc.univ-lorraine.fr/)
+[![Project Website](https://img.shields.io/badge/Website-nlpm1.rf.gd-blue)](https://nlpm1.rf.gd/)
 [![Private Research](https://img.shields.io/badge/Status-Private%20Research-red)](https://github.com)
 
 > **Master's Research Project** - MSc in Natural Language Processing  
@@ -11,6 +11,12 @@
 ![Research Overview](assets/french_gender_analysis.png)
 
 A comprehensive investigation into how French grammatical gender is encoded in BERT embeddings, using four attribution methods across multiple FlauBERT architectures to identify minimal gender-predictive dimensional subsets.
+
+---
+
+## 🌐 Interactive Experiment Version
+An interactive version of the full experimental framework, including visualizations and model comparison dashboards, is available at:  
+👉 **[https://nlpm1.rf.gd](https://nlpm1.rf.gd)**
 
 ---
 
@@ -244,9 +250,9 @@ If you reference this work, please cite:
   author={Tayyab, Muhammad and Zyna-Rahme, Celine and Gao, Chenhan and Ounanian, Stephanie},
   year={2025},
   school={Université de Lorraine},
-  type={Master's Thesis},
+  type={Master's Supervised Project},
   note={MSc in Natural Language Processing},
-  url={https://mdtayyab.com}
+  url={https://nlpm1.rf.gd}
 }
 ```
 
