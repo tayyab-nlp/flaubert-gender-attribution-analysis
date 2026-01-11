@@ -2,7 +2,7 @@
 ## Attribution-Based Analysis of French Grammatical Gender in BERT Models
 
 [![Institution](https://img.shields.io/badge/Institution-IDMC-red.svg)](https://idmc.univ-lorraine.fr/)
-[![Project Website](https://img.shields.io/badge/Website-nlpm1.rf.gd-blue)](https://nlpm1.rf.gd/)
+[![Project Website](https://img.shields.io/badge/Website-nlpm1.rf.gd-blue)](https://tayyab.io/supervised-project/)
 [![Private Research](https://img.shields.io/badge/Status-Private%20Research-red)](https://github.com)
 
 > **Master's Research Project** - MSc in Natural Language Processing  
@@ -16,7 +16,7 @@ A comprehensive investigation into how French grammatical gender is encoded in B
 
 ## 🌐 Interactive Experiment Version
 An interactive version of the full experimental framework, including visualizations and model comparison dashboards, is available at:  
-👉 **[https://nlpm1.rf.gd](https://nlpm1.rf.gd)**
+👉 **[https://tayyab.io/supervised-project/](https://tayyab.io/supervised-project/)**
 
 ---
 
@@ -157,7 +157,7 @@ Using systematic attribution analysis across FlauBERT model variants.
   📧 franco.terranova@univ-lorraine.fr
 
 ### Students
-- **Muhammad Tayyab** - [mdtayyab.com](https://mdtayyab.com) - muhammad.tayyab5@etu.univ-lorraine.fr
+- **Tayyab M.** - [mdtayyab.com](https://mdtayyab.com) - hello@tayyab.io
 - **Celine Zyna-Rahme** - celine.zyna-rahme6@etu.univ-lorraine.fr
 - **Chenhan Gao** - chenhan.gao5@etu.univ-lorraine.fr
 - **Stephanie Ounanian** - stephanie.ounanian3@etu.univ-lorraine.fr
@@ -231,9 +231,9 @@ This is private academic research. Code and materials are not available for publ
 
 ## 📞 Contact
 
-**Muhammad Tayyab**  
-🌐 [mdtayyab.com](https://mdtayyab.com)  
-📧 muhammad.tayyab5@etu.univ-lorraine.fr
+**Tayyab M.**  
+🌐 [tayyab.io](https://tayyab.io)  
+📧 hello@tayyab.io
 
 **Academic Supervisor**  
 Prof. David Langlois - david.langlois@univ-lorraine.fr
@@ -252,7 +252,7 @@ If you reference this work, please cite:
   school={Université de Lorraine},
   type={Master's Supervised Project},
   note={MSc in Natural Language Processing},
-  url={https://nlpm1.rf.gd}
+  url={https://tayyab.io/supervised-project/}
 }
 ```
 
