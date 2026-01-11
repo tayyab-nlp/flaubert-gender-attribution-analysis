@@ -211,14 +211,6 @@ Using systematic attribution analysis across FlauBERT model variants.
 
 ---
 
-## 📄 Copyright & Usage
-
-© 2025 Muhammad Tayyab, Celine Zyna-Rahme, Chenhan Gao, Stephanie Ounanian. All rights reserved.
-
-This is private academic research. Code and materials are not available for public use or distribution without explicit permission from the authors and Université de Lorraine.
-
----
-
 ## 🙏 Acknowledgements
 
 - **Morphalou3 Dataset** - CNRTL (Centre National de Ressources Textuelles et Lexicales)
