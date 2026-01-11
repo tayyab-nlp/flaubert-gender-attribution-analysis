@@ -157,7 +157,7 @@ Using systematic attribution analysis across FlauBERT model variants.
   📧 franco.terranova@univ-lorraine.fr
 
 ### Students
-- **Tayyab M.** - [mdtayyab.com](https://mdtayyab.com) - hello@tayyab.io
+- **Tayyab M.** - [tayyab.io](https://tayyab.io) - hello@tayyab.io
 - **Celine Zyna-Rahme** - celine.zyna-rahme6@etu.univ-lorraine.fr
 - **Chenhan Gao** - chenhan.gao5@etu.univ-lorraine.fr
 - **Stephanie Ounanian** - stephanie.ounanian3@etu.univ-lorraine.fr
