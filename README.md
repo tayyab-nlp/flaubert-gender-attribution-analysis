@@ -250,12 +250,6 @@ If you reference this work, please cite:
 
 ---
 
-## 📌 Project Status
-
-> **Note**: This repository contains documentation for a supervised Master's thesis project.  
-> Code and datasets are currently private as part of ongoing academic work.  
-> For collaboration or access inquiries, please contact the research team.
-
 ---
 
 **Last Updated**: October 2025  
